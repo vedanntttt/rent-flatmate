@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rent & Flatmate Finder",
+  title: "RentBuddy",
   description:
     "AI-powered room + flatmate matching with real-time chat and notifications.",
 };

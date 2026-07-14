@@ -17,7 +17,7 @@ export interface EmailInput {
  * best-effort and must not block the interest/accept/decline actions.
  */
 export async function sendEmail(input: EmailInput): Promise<{ ok: boolean; via: string }> {
-  const from = process.env.EMAIL_FROM || "Rent & Flatmate Finder <onboarding@resend.dev>";
+  const from = process.env.EMAIL_FROM || "RentBuddy <onboarding@resend.dev>";
 
   try {
     if (process.env.RESEND_API_KEY) {

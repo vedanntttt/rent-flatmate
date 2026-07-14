@@ -20,7 +20,7 @@ export async function AppHeader() {
     <header className="sticky top-0 z-20 border-b border-neutral-200 bg-white/90 backdrop-blur">
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4">
         <Link href="/" className="text-[15px] font-semibold tracking-tight">
-          Rent<span className="text-neutral-400"> & </span>Flatmate
+          Rent<span className="text-neutral-400">Buddy</span>
         </Link>
 
         <nav className="flex items-center gap-1 text-sm">

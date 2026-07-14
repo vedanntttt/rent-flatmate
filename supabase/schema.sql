@@ -1,5 +1,5 @@
 -- ============================================================================
--- Rent & Flatmate Finder — database schema
+-- RentBuddy — database schema
 -- Paste this whole file into the Supabase SQL Editor and run it once.
 -- (Project: Settings > API for keys; SQL Editor > New query > paste > Run.)
 -- ============================================================================

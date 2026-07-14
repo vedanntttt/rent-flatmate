@@ -1,4 +1,4 @@
-# System Design — Rent & Flatmate Finder
+# System Design — RentBuddy
 
 ## Overview
 
