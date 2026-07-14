@@ -1,5 +1,7 @@
 # RentBuddy — Rent & Flatmate Finder
 
+**Live demo:** [rent-flatmate-gray.vercel.app](https://rent-flatmate-gray.vercel.app/)
+
 An AI-powered platform where **owners list rooms** and **tenants create "looking for a room" profiles**. A compatibility engine (LLM with a rule-based fallback) scores and ranks matches, tenants express interest, owners accept/decline, and accepted pairs **chat in real time**. Key events trigger **email notifications**.
 
 Built with **Next.js 16 (App Router) + Supabase + Groq**.
